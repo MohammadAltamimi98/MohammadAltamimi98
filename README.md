@@ -7,10 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on getting my Full-stack developer certificate.
 - 🌱 I’m currently learning Javascript.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: m98altamimi@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a taurus.
--->
+
