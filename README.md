@@ -10,8 +10,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a taurus.
 
-
-
+<br> <br>
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadAltamimi98)](https://github.com/anuraghazra/github-readme-stats)
 
