@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on getting my Full-stack developer certificate.
 - 🌱 I’m currently learning Javascript.
-- 📫 How to reach me: m98altamimi@gmail.com
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: m98altamimi@gmail.com [Facebook](https://web.facebook.com/m98altamimi/)
+- 😄 Preferred pronouns: He/Him
 - ⚡ Fun fact: I am a taurus.
 
 <br>
